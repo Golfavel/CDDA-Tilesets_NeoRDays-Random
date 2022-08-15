@@ -481,27 +481,33 @@
   },
   {
     "id": "s_restaurant_coffee",
-    "fg": "shop_brown"
+    "fg": "shop_brown",
+    "bg": "background_magenta"
   },
   {
     "id": "s_restaurant_coffee_roof",
-    "fg": "shop_brown"
+    "fg": "shop_brown",
+    "bg": "background_magenta"
   },
   {
     "id": "s_restaurant_coffee_1",
-    "fg": "shop_brown"
+    "fg": "shop_brown",
+    "bg": "background_magenta"
   },
   {
     "id": "s_restaurant_coffee_roof_1",
-    "fg": "shop_brown"
+    "fg": "shop_brown",
+    "bg": "background_magenta"
   },
   {
     "id": "s_restaurant_coffee_2",
-    "fg": "shop_brown"
+    "fg": "shop_brown",
+    "bg": "background_magenta"
   },
   {
     "id": "s_restaurant_coffee_roof_2",
-    "fg": "shop_brown"
+    "fg": "shop_brown",
+    "bg": "background_magenta"
   },
   {
     "id": "s_teashop",
@@ -525,19 +531,23 @@
   },
   {
     "id": "bar",
-    "fg": "shop_magenta"
+    "fg": "shop_magenta",
+    "bg": "background_brown"
   },
   {
     "id": "bar_roof",
-    "fg": "shop_magenta"
+    "fg": "shop_magenta",
+    "bg": "background_brown"
   },
   {
     "id": "bar_1",
-    "fg": "shop_magenta"
+    "fg": "shop_magenta",
+    "bg": "background_brown"
   },
   {
     "id": "bar_roof_1",
-    "fg": "shop_magenta"
+    "fg": "shop_magenta",
+    "bg": "background_brown"
   },
   {
     "id": "s_butcher",
@@ -1113,15 +1123,18 @@
   },
   {
     "id": "small_office",
-    "fg": "two_story_light_gray"
+    "fg": "two_story_light_gray",
+    "bg": "background_light_gray"
   },
   {
     "id": "small_office_roof",
-    "fg": "two_story_light_gray"
+    "fg": "two_story_light_gray",
+    "bg": "background_light_gray"
   },
   {
     "id": "small_office_upper_roof",
-    "fg": "two_story_light_gray"
+    "fg": "two_story_light_gray",
+    "bg": "background_light_gray"
   },
   {
     "id": "candy_shop",
@@ -1153,11 +1166,13 @@
   },
   {
     "id": "icecream_shop",
-    "fg": "shop_yellow"
+    "fg": "shop_yellow",
+    "bg": "background_white"
   },
   {
     "id": "icecream_shop_roof",
-    "fg": "shop_yellow"
+    "fg": "shop_yellow",
+    "bg": "background_white"
   },
   {
     "id": "dollarstore",
@@ -1541,11 +1556,13 @@
   },
   {
     "id": "cs_sex_shop",
-    "fg": "shop_pink"
+    "fg": "shop_pink",
+    "bg": "background_pink"
   },
   {
     "id": "cs_sex_shop_roof",
-    "fg": "shop_pink"
+    "fg": "shop_pink",
+    "bg": "background_pink"
   },
   {
     "id": "cs_internet_cafe",

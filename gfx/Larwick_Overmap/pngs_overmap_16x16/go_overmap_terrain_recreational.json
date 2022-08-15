@@ -637,27 +637,33 @@
   },
   {
     "id": "stripclub",
-    "fg": "two_story_pink"
+    "fg": "two_story_pink",
+    "bg": "background_red"
   },
   {
     "id": "stripclub_roof",
-    "fg": "two_story_pink"
+    "fg": "two_story_pink",
+    "bg": "background_red"
   },
   {
     "id": "stripclub_1",
-    "fg": "two_story_pink"
+    "fg": "two_story_pink",
+    "bg": "background_red"
   },
   {
     "id": "stripclub_roof_1",
-    "fg": "two_story_pink"
+    "fg": "two_story_pink",
+    "bg": "background_red"
   },
   {
     "id": "stripclub_2",
-    "fg": "two_story_pink"
+    "fg": "two_story_pink",
+    "bg": "background_red"
   },
   {
     "id": "stripclub_roof_2",
-    "fg": "two_story_pink"
+    "fg": "two_story_pink",
+    "bg": "background_red"
   },
   {
     "id": "museum",
