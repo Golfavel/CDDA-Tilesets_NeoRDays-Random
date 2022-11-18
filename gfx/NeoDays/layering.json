@@ -9,6 +9,11 @@
           "layer": 100
         },
         {
+          "item": "greeting_card",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
           "item": "letter",
           "sprite": [{"id": "f_mailbox_1", "weight": 1}],
           "layer": 100
@@ -24,7 +29,37 @@
           "layer": 100
         },
         {
-          "item": "newspaper_recent",
+          "item": "many_years_old_newspaper",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "one_year_old_newspaper",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "months_old_newspaper",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "weeks_old_newspaper",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "years_old_newspaper",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "newest_newspaper",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "newspaper_memorial",
           "sprite": [{"id": "f_mailbox_1", "weight": 1}],
           "layer": 100
         },
