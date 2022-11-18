@@ -1,0 +1,74 @@
+{
+  "variants": [
+    {
+      "context": "f_mailbox",
+      "item_variants": [
+        {
+          "item": "greeting-cards_with_gifts",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "letter",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "postcard",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "magazines",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "newspaper_recent",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "flyer",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "survnote",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "restaurantbrochure",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "grocerybrochure",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "historybrochure",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "mallbrochure",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "furniturebrochure",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        },
+        {
+          "item": "technologybrochure",
+          "sprite": [{"id": "f_mailbox_1", "weight": 1}],
+          "layer": 100
+        }
+      ]
+    }
+  ]
+}
