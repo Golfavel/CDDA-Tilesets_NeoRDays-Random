@@ -1,0 +1,10 @@
+[
+  {
+    "id": [ "mx_roadblock", "mx_bandits_block" ],
+    "fg": "roadblock_red"
+  },
+  {
+    "id": "mx_roadworks",
+    "fg": "roadblock_yellow"
+  }
+]
