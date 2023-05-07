@@ -1,5 +1,17 @@
 [
   {
+    "id": "mx_crater",
+    "fg": "hole_light_red"
+  },
+  {
+    "id": "mx_nest_wasp",
+    "fg": "hive_light_gray"
+  },
+  {
+    "id": "mx_supplydrop",
+    "fg": "crate_yellow"
+  },
+  {
     "id": [ "mx_roadblock", "mx_bandits_block" ],
     "fg": "roadblock_red"
   },
