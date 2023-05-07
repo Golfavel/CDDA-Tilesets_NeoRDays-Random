@@ -1,5 +1,9 @@
 [
   {
+    "id": [ "mx_science", "mx_drugdeal", "mx_collegekids" ],
+    "fg": "skull_light_red"
+  },
+  {
     "id": "mx_crater",
     "fg": "hole_light_red"
   },
