@@ -14,6 +14,14 @@
     "fg": "church_light_gray"
   },
   {
+    "id": "rural_church",
+    "fg": "church_brown"
+  },
+  {
+    "id": "rural_church_parking",
+    "fg": "parking_brown"
+  },
+  {
     "id": [
       "cathedral_1_NW",
       "cathedral_1_NE",
