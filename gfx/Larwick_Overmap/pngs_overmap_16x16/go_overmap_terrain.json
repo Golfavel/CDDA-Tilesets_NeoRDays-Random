@@ -652,6 +652,13 @@
   },
   {
     "id": [
+      "meadow_core",
+      "meadow_end"
+    ],
+    "fg": "two_grass_brown"
+  },
+  {
+    "id": [
         "isolated_house_farm_gunsmith",
         "isolated_house_farm_roof_gunsmith",
         "isolated_house_farm_blacksmith",
