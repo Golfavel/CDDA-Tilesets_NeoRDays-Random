@@ -578,5 +578,90 @@
       "hayfield_end"
     ],
     "fg": "square_brown"
+  },
+  {
+    "id": [
+      "paddock",
+      "paddock_L_butt",
+      "paddock_R_butt",
+      "paddock_L_gap",
+      "paddock_R_gap",
+      "paddock_C",
+      "paddock_UL",
+      "paddock_UR",
+      "paddock_DL",
+      "paddock_DR",
+      "paddock_d_D_butt",
+      "paddock_d_U_gap",
+      "paddock_d_D_gap",
+      "paddock_d_U_butt",
+      "paddock_special_1",
+      "paddock_special_2",
+      "paddock_special_3",
+      "paddock_special_4",
+      "paddock_trailhead_1",
+      "paddock_trailhead_3",
+      "paddock_trailhead_4",
+      "paddock_trailhead_6",
+      "paddock_trailhead_7",
+      "paddock_trailhead_9",
+      "paddock_end_UL",
+      "paddock_end_UR",
+      "paddock_end_DL",
+      "paddock_end_DR"
+    ],
+    "fg": "square_light_gray"
+  },
+  {
+    "id": [
+      "farm_horse_silo",
+      "farm_horse_silo_1",
+      "farm_horse_silo_roof"
+    ],
+    "fg": "silo_brown"
+  },
+  {
+    "id": [
+      "pasture",
+      "splitrail_fence_butt",
+      "splitrail_fence_gap",
+      "splitrail_fence_UL",
+      "splitrail_fence_UR",
+      "splitrail_fence_DL",
+      "splitrail_fence_DR",
+      "splitrail_fence_inner"
+    ],
+    "fg": "square_brown"
+  },
+  {
+    "id": [
+      "farm_horse_stable_1",
+      "farm_horse_stable_1_hayloft",
+      "farm_horse_stable_1_roof"
+    ],
+    "fg": "barn_brown"
+  },
+  {
+    "id": [
+      "farm_horse_greenhouse",
+      "farm_horse_greenhouse_roof"
+    ],
+    "fg": "barn_green"
+  },
+  {
+    "id": [
+      "farm_horse_house_1",
+      "farm_horse_house_1_2ndfloor",
+      "farm_horse_house_1_roof"
+    ],
+    "fg": "cabin_brown"
+  },
+  {
+    "id": "farm_horse_track_1",
+    "fg": "road_edge_ns"
+  },
+  {
+    "id": "farm_horse_track_2",
+    "fg": "road_end_piece_s"
   }
 ]
