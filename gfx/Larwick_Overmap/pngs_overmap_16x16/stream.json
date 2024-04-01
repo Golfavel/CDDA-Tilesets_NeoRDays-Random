@@ -1,0 +1,27 @@
+[
+  {
+    "id": "stream",
+    "fg": "stream_edge_ns",
+    "rotates": true
+  },
+  {
+    "id": "stream_corner",
+    "fg": [
+      "stream_corner_se",
+      "stream_corner_ne",
+      "stream_corner_nw",
+      "stream_corner_sw"
+    ],
+    "rotates": true
+  },
+  {
+    "id": "stream_end",
+    "fg": [
+      "stream_end_n",
+      "stream_end_w",
+      "stream_end_s",
+      "stream_end_e"
+    ],
+    "rotates": true
+  }
+]

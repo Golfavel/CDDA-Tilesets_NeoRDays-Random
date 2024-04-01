@@ -20,26 +20,26 @@
       {
         "id": "corner",
         "fg": [
-          "tentacle_corner_nw",
-          "tentacle_corner_sw",
-          "tentacle_corner_se",
-          "tentacle_corner_ne"
+          "stream_corner_nw",
+          "stream_corner_sw",
+          "stream_corner_se",
+          "stream_corner_ne"
         ]
       },
       {
         "id": "edge",
         "fg": [
-          "tentacle_edge_ns",
-          "tentacle_edge_ew"
+          "stream_edge_ns",
+          "stream_edge_ew"
         ]
       },
       {
         "id": "end_piece",
         "fg": [
-          "tentacle_end_piece_n",
-          "tentacle_end_piece_w",
-          "tentacle_end_piece_s",
-          "tentacle_end_piece_e"
+          "stream_end_n",
+          "stream_end_w",
+          "stream_end_s",
+          "stream_end_e"
         ]
       }
     ]
