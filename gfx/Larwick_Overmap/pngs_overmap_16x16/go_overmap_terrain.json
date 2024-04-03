@@ -624,6 +624,10 @@
     "fg": "tent_green"
   },
   {
+    "id": "forest_trail_intersection",
+    "fg": "forest_trail_unconnected"
+  },
+  {
     "id": [
         "exo_safehouse_stone_0",
         "exo_safehouse_stone_1",
