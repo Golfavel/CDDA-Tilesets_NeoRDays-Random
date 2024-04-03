@@ -620,6 +620,10 @@
     "fg": "tent_green"
   },
   {
+    "id": "survivor_forest_camp",
+    "fg": "tent_green"
+  },
+  {
     "id": [
         "exo_safehouse_stone_0",
         "exo_safehouse_stone_1",
