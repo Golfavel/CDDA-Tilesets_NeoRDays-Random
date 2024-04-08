@@ -88,5 +88,20 @@
       "exodii_base_x3y3z3"
     ],
     "fg": "fortress_light_gray"
+  },
+  {
+    "id": [
+        "exo_safehouse_stone_0",
+        "exo_safehouse_stone_1",
+        "exo_safehouse_stone_2"
+      ],
+    "fg": "barn_light_gray"
+  },
+  {
+    "id": [
+      "exo_warehouse_1",
+      "exo_warehouse_2"
+    ],
+    "fg": "industry_light_gray"
   }
 ]

@@ -150,6 +150,7 @@
       "cabin_prepper",
       "bandit_cabin",
       "bandit_cabin_roof",
+      "cabin_liam",
       "campsite_cabin_incomplete"
     ],
     "fg": "cabin_brown"
@@ -626,14 +627,6 @@
   {
     "id": "forest_trail_intersection",
     "fg": "forest_trail_unconnected"
-  },
-  {
-    "id": [
-        "exo_safehouse_stone_0",
-        "exo_safehouse_stone_1",
-        "exo_safehouse_stone_2"
-      ],
-    "fg": "barn_light_gray"
   },
   {
     "id": [
