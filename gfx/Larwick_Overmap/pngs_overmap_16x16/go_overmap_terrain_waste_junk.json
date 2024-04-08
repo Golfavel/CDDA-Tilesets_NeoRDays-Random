@@ -92,19 +92,15 @@
     "fg": "trap_pink"
   },
   {
-    "id": "pump_station_1",
-    "fg": "industry_blue"
-  },
-  {
-    "id": "pump_station_1_roof",
-    "fg": "industry_blue"
-  },
-  {
-    "id": "pump_station_2",
-    "fg": "industry_blue"
-  },
-  {
-    "id": "pump_station_2_roof",
+    "id": [
+      "pump_station_1",
+      "pump_station_1_roof",
+      "pump_station_2",
+      "pump_station_2_roof",
+      "pump_station_3",
+      "pump_station_4",
+      "pump_station_5"
+    ],
     "fg": "industry_blue"
   },
   {
