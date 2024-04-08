@@ -58,15 +58,11 @@
     "fg": "mine_dark_gray"
   },
   {
-    "id": "mine",
-    "fg": "mine_brown"
-  },
-  {
-    "id": "mine_down",
-    "fg": "mine_brown"
-  },
-  {
-    "id": "mine_finale",
+    "id": [
+      "mine",
+      "mine_down",
+      "mine_finale"
+    ],
     "fg": "mine_brown"
   },
   {
