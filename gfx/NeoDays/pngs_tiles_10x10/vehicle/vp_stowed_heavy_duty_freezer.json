@@ -1,6 +1,7 @@
 {
   "id": "vp_stowed_heavy_duty_freezer",
   "fg": "heavy_duty_freezer",
+  "bg": "background_black",
   "rotates": false,
   "multitile": true,
   "additional_tiles": [
