@@ -1,5 +1,8 @@
 {
-  "id": "vp_stowed_freezer",
+  "id": [
+    "vp_stowed_freezer",
+    "vp_stowed_big_portable_freezer"
+  ],
   "fg": "apartment_freezer",
   "bg": "background_black",
   "rotates": false,

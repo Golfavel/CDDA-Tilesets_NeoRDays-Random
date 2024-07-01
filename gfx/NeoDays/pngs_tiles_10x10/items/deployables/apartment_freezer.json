@@ -1,7 +1,7 @@
 {
   "id": [
-    "apartment_freezer"
+    "apartment_freezer",
+    "big_portable_freezer"
   ],
-  "fg": "apartment_freezer",
-  "//": "vehicle part"
+  "fg": "apartment_freezer"
 }
