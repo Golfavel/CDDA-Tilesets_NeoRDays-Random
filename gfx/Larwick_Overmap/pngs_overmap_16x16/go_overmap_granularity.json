@@ -75,19 +75,12 @@
     "bg": "swamp_cyan"
   },
   {
-    "id": [ "open_land$vague" ],
-    "fg": "unknown_terrain_vague",
-    "bg": "one_grass_brown"
-  },
-  {
-    "id": [ "open_land$outlines" ],
-    "fg": "unknown_terrain_outlines",
-    "bg": "one_grass_brown"
-  },
-  {
-    "id": [ "open_land$details" ],
-    "fg": "unknown_terrain_details",
-    "bg": "one_grass_brown"
+    "id": [
+      "open_land$vague",
+      "open_land$outlines",
+      "open_land$details"
+    ],
+    "fg": "one_grass_brown"
   },
   {
     "id": [ "farm_field$vague" ],
